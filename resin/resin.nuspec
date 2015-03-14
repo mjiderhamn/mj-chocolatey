@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>resin</id>
+    <version>4.0.40</version>
+    <title>Resin Pro</title>
+    <authors>Caucho</authors>
+    <owners>Mattias Jiderhamn</owners>
+    <licenseUrl>http://www.gnu.org/licenses/gpl-2.0.html</licenseUrl>
+    <projectUrl>http://caucho.com/products/resin</projectUrl>
+    <iconUrl>http://caucho.com/wp-content/uploads/2014/01/resin_logo_25.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Resin Java EE application server from Caucho. This is the GPL version; there is also a paid version name Resin Pro.</description>
+    <summary>Resin Java EE application server from Caucho</summary>
+    <releaseNotes />
+    <copyright>Caucho Technology, Inc.</copyright>
+    <tags>resin javaee</tags>
+  </metadata>
+</package>

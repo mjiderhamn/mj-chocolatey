@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>resin-pro</id>
+    <version>4.0.40</version>
+    <title>Resin Pro</title>
+    <authors>Caucho</authors>
+    <owners>Mattias Jiderhamn</owners>
+    <licenseUrl>http://www.caucho.com/sales/Caucho_Developer_Source_License_Agreement_v1.2.pdf</licenseUrl>
+    <projectUrl>http://caucho.com/products/resin</projectUrl>
+    <iconUrl>http://caucho.com/wp-content/uploads/2014/01/resin_logo_25.png</iconUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <description>Resin Pro Java EE application server from Caucho. Note that this is the Pro version that assumes a license is installed to activate additional features. There is also a GPL version.</description>
+    <summary>Resin Pro Java EE application server from Caucho</summary>
+    <releaseNotes />
+    <copyright>Caucho Technology, Inc.</copyright>
+    <tags>resin javaee</tags>
+  </metadata>
+</package>
