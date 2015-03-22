@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>x-mouse</id>
+    <version>2.10.2</version>
+    <title>X-Mouse Button Control</title>
+    <authors>Phillip Gibbons (Highresolution Enterprises)</authors>
+    <owners>Mattias Jiderhamn</owners>
+    <projectUrl>http://www.highrez.co.uk/downloads/XMouseButtonControl.htm</projectUrl>
+    <iconUrl>http://www.highrez.co.uk/downloads/images/xmbcicon.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>X-Mouse Button Control is a free tool for Windows that allows you to re-configure and expand the capabilities of your mouse.</description>
+    <summary>X-Mouse Button Control is a free tool for Windows that allows you to re-configure and expand the capabilities of your mouse.</summary>
+    <releaseNotes />
+    <copyright>Phillip Gibbons (Highresolution Enterprises)</copyright>
+    <tags>mouse button control</tags>
+  </metadata>
+</package>
