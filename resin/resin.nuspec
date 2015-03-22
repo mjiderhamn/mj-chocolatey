@@ -2,8 +2,8 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
   <metadata>
     <id>resin</id>
-    <version>4.0.40</version>
-    <title>Resin Pro</title>
+    <version>4.0.43</version>
+    <title>Resin</title>
     <authors>Caucho</authors>
     <owners>Mattias Jiderhamn</owners>
     <licenseUrl>http://www.gnu.org/licenses/gpl-2.0.html</licenseUrl>
@@ -15,5 +15,9 @@
     <releaseNotes />
     <copyright>Caucho Technology, Inc.</copyright>
     <tags>resin javaee</tags>
+    <dependencies>
+      <!-- Chocolatey 0.9.9 required in order to access the chocolateyPackageVersion environment variable -->
+      <dependency id="chocolatey" version="0.9.9" />
+    </dependencies>
   </metadata>
 </package>

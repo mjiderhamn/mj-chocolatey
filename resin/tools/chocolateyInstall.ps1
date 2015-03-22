@@ -1,6 +1,5 @@
 $basename = "resin"
-$version = '4.0.40'
-$name = "$basename-$version"
+$name = "$basename-$env:chocolateyPackageVersion"
 $url = "http://www.caucho.com/download/$name.zip"
 $binRoot = Get-BinRoot
 

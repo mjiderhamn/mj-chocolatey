@@ -1,6 +1,5 @@
 $basename = "resin-pro"
-$version = '4.0.40'
-$name = "$basename-$version"
+$name = "$basename-$env:chocolateyPackageVersion"
 
 $installPath = (Join-Path (Get-BinRoot) $name)
 if (Test-Path $installPath) {
