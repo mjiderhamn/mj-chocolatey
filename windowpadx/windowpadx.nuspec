@@ -10,7 +10,7 @@
     <projectUrl>https://github.com/hoppfrosch/WindowPadX</projectUrl>
     <iconUrl>https://cdn.rawgit.com/hoppfrosch/WindowPadX/d9a0ce686a93b7fd70c71b4969c1537c4376d5d8/icons/WindowPad.ico</iconUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <description>WindowPadX is a tool which provides some useful functionality within multi monitor environments. WindowPadX is an enhancement of WindowPad, originally released by Lexikos (see: http://http://www.autohotkey.com/forum/viewtopic.php?t=21703)</description>
+    <description>WindowPadX is a tool which provides some useful functionality within multi monitor environments. WindowPadX is an enhancement of WindowPad, originally released by Lexikos (see: http://www.autohotkey.com/forum/viewtopic.php?t=21703)</description>
     <summary>WindowPadX is a tool which provides some useful functionality within multi monitor environments.</summary>
     <releaseNotes />
     <copyright>Hoppfrosch</copyright>
