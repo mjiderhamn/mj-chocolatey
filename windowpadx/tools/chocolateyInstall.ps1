@@ -3,4 +3,9 @@ $md5checksum = "d8f0dbda3bcdc751dee257900db081e8"
 
 $exePath = Join-Path $env:chocolateyPackageFolder 'WindowPadX.exe'
 
+$dotguiPath = $exePath + ".gui"
+if(!(Test-Path $dotguiPath)) {
+  New-Item $dotguiPath
+}
+
 Get-ChocolateyWebFile $env:chocolateyPackageName $exePath $url -checksum $md5checksum -checksumType "md5"
